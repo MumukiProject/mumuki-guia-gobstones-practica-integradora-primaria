@@ -1,0 +1,1 @@
+No muevas el telescopio hasta el anotador porque solo sirve para ver cosas que están muy lejos.
