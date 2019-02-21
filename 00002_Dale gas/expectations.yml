@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:FusionarHidrogeno
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: FusionarHidrogeno
+  inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: FusionarHidrogeno
+  inspection: Uses:Poner
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: FusionarHidrogeno
+  inspection: Uses:Sacar

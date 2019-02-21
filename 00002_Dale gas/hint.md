@@ -1,0 +1,1 @@
+La mitad del número de bolitas podés escribirlo como el número de bolitas dividido 2. Para eso tenés el operador `div`.
