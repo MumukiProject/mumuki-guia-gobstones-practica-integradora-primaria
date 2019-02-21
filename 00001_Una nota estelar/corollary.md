@@ -1,0 +1,3 @@
+La estrella que acabamos de observar era el Sol :sun_with_face:. Es amarillo y de tamaño medio, pero lo vemos más grande que al resto de las estrellas :sparkler: por estar mucho más cerca de la Tierra. Nuestro planeta está a la distancia perfecta como para recibir el calor justo y necesario: no nos morimos de frío :snowflake: ni nos quemamos :fire:.
+
+Como nuestro planeta y otros cuerpos celestes giran alrededor de él, se lo llama Sistema Solar. Pero dicen que hay más estrellas :sparkles: en el Universo que granos de arena en la Tierra. Y todas ellas probablemente tienen a algún planeta girando alrededor. Entonces, ¿habrá vida en otros planetas que no conocemos? :alien::scream: 
