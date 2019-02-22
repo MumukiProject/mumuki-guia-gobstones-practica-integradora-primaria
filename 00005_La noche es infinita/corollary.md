@@ -1,0 +1,3 @@
+Estas estrellas tienen sus propios nombres: Alnitak, Alnilam y Mintaka. Para que te des una idea de lo gigantes que son, ¡Alnitak es 16 veces más grande que el Sol, y Alnilam 31 veces! Y ni hablar de su brillo, siendo entre 100.000 y 400.000 veces más brillantes que el Sol.
+
+¿Y por qué las vemos tan chiquitas? Porque están muuuuucho más lejos, entre 700 y 1400 años luz. :open_mouth: Por eso, te pedimos que usaras el zoom del telescopio. :wink:
