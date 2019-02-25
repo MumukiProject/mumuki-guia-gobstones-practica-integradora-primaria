@@ -1,0 +1,20 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:AtacarAsteroide
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: AtacarAsteroide
+  inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: AtacarAsteroide
+  inspection: Uses:PonerTractorGravitacional
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: AtacarAsteroide
+  inspection: Uses:EnviarImpactador
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: AtacarAsteroide
+  inspection: Uses:EnviarConductor
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: AtacarAsteroide
+  inspection: Uses:Perforar
