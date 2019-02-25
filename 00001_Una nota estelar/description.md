@@ -1,6 +1,4 @@
-<gs-attire
-  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json">
-</gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1551118449399.json"></gs-attire>
 
 En esta primera nota hablaremos de las más brillantes: ¡las estrellas! :star: Pero esperen, porque una amiga astrónoma nos contó que en realidad no tienen esa forma de 5 puntas, sino que son redondas, más parecido a esto :red_circle:. 
 

@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1551118570476.json"></gs-attire>
+
 ¿Sabías que en la Astronomía las distancias no se miden en centímetros, metros ni kilómetros, sino en **años luz**? ¿Y eso qué es? Un _año luz_ es la distancia que puede recorrer la luz en un año terrestre. :stuck_out_tongue_closed_eyes:
 
 ¡Paren! ¿La luz viaja y se mueve :dizzy:? Sí, y el sonido también, pero más lento. Por eso, en las tormentas vemos primero el relámpago :zap: y más tarde escuchamos el sonido del trueno. 
