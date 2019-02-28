@@ -1,6 +1,6 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1551115873723.json"></gs-attire>
 
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/toolbox_1551387522678.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/toolbox_.xml"></gs-toolbox>
 
 Las estrellas son hermosas y muy llamativas. Pero no es lo único que podemos encontrar en el espacio. Por ejemplo, cuando una estrella muere se desprende material que puede unirse a planetas, formar satélites o conformar **asteroides**. 
 
