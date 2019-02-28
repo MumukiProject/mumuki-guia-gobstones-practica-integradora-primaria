@@ -6,5 +6,5 @@ cell 1 0 Verde 1
 cell 2 0 Verde 1 
 cell 3 0 Verde 1 
 cell 4 0 Verde 1 
-head 0 0
+head 4 5
  </gs-board>
