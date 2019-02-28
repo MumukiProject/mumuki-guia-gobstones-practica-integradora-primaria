@@ -7,4 +7,4 @@ Como existen muuuuchas estrellas, astrónomas y astrónomos decidieron agruparla
 
 ¿Pero cómo lo logran? ¡Es fácil! Debemos extender imaginariamente la línea más larga 4 veces, como si dibujáramos en el cielo 4 tramitos de línea, y luego bajar hasta el horizonte. ¡Ahí está el Sur! Probémoslo en el tablero de Gobstones. :smile:
 
-> La línea más larga de la cruz está en diagonal. Por eso, construí un programa que baje hacia el Sudoeste 4 veces y que extienda la línea en cada bajada, poniendo una bolita negra. Por último, deberás bajar una vez al Sur.
+> La línea más larga de la cruz está en diagonal. Por eso, construí un programa que baje hacia el Sudoeste 4 veces y que `extienda la línea` en cada bajada. Por último, deberás bajar una vez al Sur.
