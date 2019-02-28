@@ -1,1 +1,53 @@
-{"enabled":true,"rules":[{"when":{"red":0,"green":0,"blue":1,"black":0},"image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118659894.png"},{"when":{"red":0,"green":0,"blue":0,"black":1}},{"when":{"red":1,"green":1,"blue":0,"black":0},"image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118661975.png"},{"when":{"red":0,"green":1,"blue":0,"black":0},"image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118663023.png"},{"when":{"red":0,"green":0,"blue":0,"black":0}}],"borders":{}}
+{
+  "enabled":true,
+  "rules":[
+    {
+      "when":{
+        "red":0,
+        "green":0,
+        "blue":1,
+        "black":0
+      },
+      "image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118659894.png"
+    },
+    {
+      "when":{
+        "red":0,
+        "green":0,
+        "blue":0,
+        "black":1
+      },
+      "image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118660949.png"
+    },
+    {
+      "when":{
+        "red":1,
+        "green":1,
+        "blue":0,
+        "black":0
+      },
+      "image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118661975.png"
+    },
+    {
+      "when":{
+        "red":0,
+        "green":1,
+        "blue":0,
+        "black":0
+      },
+      "image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118663023.png"
+    },
+    {
+      "when":{
+        "red":0,
+        "green":0,
+        "blue":0,
+        "black":0
+      },
+      "image":"https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/image_1551118664054.png"
+    }
+  ],
+  "borders":{
+
+  }
+}
