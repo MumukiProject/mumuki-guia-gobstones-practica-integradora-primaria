@@ -1,0 +1,1 @@
+¡Muy bien! :clap: Aprendiste un montón sobre estrellas :star:, asteroides y hasta pudiste relacionarlo con la programación :smile:. Pero también hay otros cuerpos celestes en el universo. ¡Sigamos investigando! :rocket:
