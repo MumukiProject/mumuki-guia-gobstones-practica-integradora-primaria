@@ -1,7 +1,7 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1551384595133.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/toolbox.xml">
-</gs-toolbox> 
+</gs-toolbox>
 
 Como te contamos, las constelaciones servían para orientar a quienes navegaban o viajaban por el desierto. Pero también ayudaron a construir calendarios agrícolas y religiosos.
 
