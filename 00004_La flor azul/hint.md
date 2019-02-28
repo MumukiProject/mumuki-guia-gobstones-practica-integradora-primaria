@@ -1,1 +1,1 @@
-Para bajar al Sudoeste podés bajar una vez al Sur, luego correrte al Oeste y extender la línea. Todos esos pasos podés repetirlo tanto como necesites.
+Para bajar al Sudoeste podés bajar una vez al `Sur`, luego correrte al `Oeste` y extender la línea. Todos esos pasos podés repetirlo tanto como necesites.
