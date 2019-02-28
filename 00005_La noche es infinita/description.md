@@ -9,4 +9,4 @@ La mayoría tienen nombres y personajes asociados que cuentan historias. Uno de 
 
 ¡Conozcámoslas un poco más!
 
-> Construí el programa para que enfoquemos con el telescopio cada estrella y fusionemos su hidrógeno. Pero como están muy lejos, antes de fusionar tendrás que hacer zoom 3 veces. 
+> Construí el programa para que enfoquemos con el telescopio cada estrella y `fusionemos su hidrógeno`. Pero como están muy lejos, antes de fusionar tendrás que `hacer zoom` 3 veces. 
