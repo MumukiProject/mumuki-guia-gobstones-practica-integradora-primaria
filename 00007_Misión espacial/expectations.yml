@@ -11,10 +11,10 @@ expectations:
   inspection: Uses:PonerTractorGravitacional
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
-  inspection: Uses:EnviarImpactador
+  inspection: Uses:EnviarImpactadorAl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
-  inspection: Uses:EnviarConductor
+  inspection: Uses:EnviarConductorAl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
   inspection: Uses:Perforar
