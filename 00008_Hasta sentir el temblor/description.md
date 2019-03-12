@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1551115873723.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1552403410457.json"></gs-attire>
 
 ¡Ya salvamos al planeta de dos grandes asteroides! Pero queda un método más por considerar. :flushed:
 

@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1551115873723.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1552403410457.json"></gs-attire>
 
 Ya tomamos todas las medidas posibles y pudimos actuar con rapidez. ¿Pero qué pasará si rompemos en pedacitos al asteroide? :relieved: Esos pedacitos se llaman **meteoroides** y si se acercan a la Tierra les puede pasar dos cosas:
 
