@@ -14,13 +14,13 @@ expectations:
   inspection: Uses:EnviarImpactadorAl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
-  inspection: Uses:EnviarConductor
+  inspection: Uses:EnviarConductorAl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
   inspection: Uses:Perforar
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
-  inspection: Uses:EnviarPropulsor
+  inspection: Uses:EnviarPropulsorAl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
   inspection: Uses:AumentarPotencia
