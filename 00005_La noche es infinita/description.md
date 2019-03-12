@@ -5,7 +5,7 @@
 
 Como te contamos, las constelaciones servían para orientar a quienes navegaban o viajaban por el desierto. Pero también ayudaron a construir calendarios agrícolas y religiosos.
 
-La mayoría tienen nombres y personajes asociados que cuentan historias. Uno de ellos es **Orión**, caracterizado como un gran cazador. Quizás nunca escuchaste hablar de esta constelación, pero seguramente conozcas su _cinturón_: **las Tres Marías**. Y ellas también tienen sus propias historias.
+La mayoría tienen nombres y personajes asociados que cuentan historias :crystal_ball:. Uno de ellos es **Orión**, caracterizado como un gran cazador. Quizás nunca escuchaste hablar de esta constelación, pero seguramente conozcas su _cinturón_: **las Tres Marías**. Y ellas también tienen sus propias historias. :book:
 
 ¡Conozcámoslas un poco más!
 
