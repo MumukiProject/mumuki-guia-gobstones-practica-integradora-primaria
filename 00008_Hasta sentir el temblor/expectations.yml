@@ -11,7 +11,7 @@ expectations:
   inspection: Uses:PonerTractorGravitacional
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
-  inspection: Uses:EnviarImpactadorAl
+  inspection: Uses:EnviarImpactadorAl_
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: AtacarAsteroide
   inspection: Uses:EnviarConductor
