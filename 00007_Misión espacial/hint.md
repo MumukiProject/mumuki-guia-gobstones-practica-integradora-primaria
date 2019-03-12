@@ -1,1 +1,1 @@
-Recordá que para agregar otras combinaciones en el condicional podés mantener seleccionado sobre el bloque del condicional o apretar con el click derecho, y te aparecerá la opción "Agregar `si no, si`".
+Recordá que para agregar otras combinaciones en el condicional podés mantener seleccionado sobre el bloque del condicional o apretar con el click derecho, y te aparecerá la opción "Agregar `si no, si`". 
