@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1552401809208.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1552671456796.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-condicional-ii-kids/master/assets/toolbox.xml">
 </gs-toolbox>
@@ -9,4 +9,4 @@
 
 Si una estrella está a 5 años luz, significa que su luz tardará 5 años en llegar hasta la Tierra. Entonces, la luz que vemos en el cielo nocturno no es lo que está pasando ahora, sino lo que ocurrió en esa estrella hace 5 años :scream::crystal_ball:. Con el _sol_ pasa lo mismo, pero por suerte está a solo _8 minutos luz_. 
 
-> Aprovechemos el procedimiento que hiciste para hacer brillar las estrellas. `Mové el telescopio` al `Norte` `hasta que no puedas moverte` más; en cada casillero, `si hay una estrella`, `fusioná el hidrógeno`.
+> Aprovechemos el procedimiento que hiciste para hacer brillar las estrellas. `Mové el telescopio` al `Este` `hasta que no puedas moverte` más; en cada casillero, `si hay una estrella`, `fusioná el hidrógeno`.
