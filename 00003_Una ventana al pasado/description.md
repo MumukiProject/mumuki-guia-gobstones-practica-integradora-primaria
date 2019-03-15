@@ -7,6 +7,6 @@
 
 ¡Paren! ¿La luz viaja y se mueve :dizzy:? Sí, y el sonido también, pero más lento. Por eso, en las tormentas vemos primero el relámpago :zap: y más tarde escuchamos el sonido del trueno. 
 
-Si una estrella está a 5 años luz, significa que su luz tardará 5 años en llegar hasta la Tierra. Entonces, la luz que vemos en el cielo nocturno no es lo que está pasando ahora, sino lo que ocurrió en esa estrella hace 5 años. :scream: Con el _sol_ pasa lo mismo, pero por suerte está a solo _8 minutos luz_. 
+Si una estrella está a 5 años luz, significa que su luz tardará 5 años en llegar hasta la Tierra. Entonces, la luz que vemos en el cielo nocturno no es lo que está pasando ahora, sino lo que ocurrió en esa estrella hace 5 años :scream::crystal_ball:. Con el _sol_ pasa lo mismo, pero por suerte está a solo _8 minutos luz_. 
 
 > Aprovechemos el procedimiento que hiciste para hacer brillar las estrellas. `Mové el telescopio` al `Norte` `hasta que no puedas moverte` más; en cada casillero, `si hay una estrella`, `fusioná el hidrógeno`.
