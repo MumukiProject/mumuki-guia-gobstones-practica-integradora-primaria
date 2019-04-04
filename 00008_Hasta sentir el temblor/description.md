@@ -9,4 +9,4 @@ Lo mejor será evitar romper el asteroide siempre que podamos. Por eso, si está
 
 Y como ya sabés agregar nuevas condiciones en el condicional, esto será solo un paso más. :stuck_out_tongue_winking_eye:
 
-> Agregá la condición necesaria para que, `si` el asteroide `está cerca y viene lento`, envíe el propulsor al Noroeste y `aumente la potencia` de los propulsores `hasta que pueda mover al asteroide`.
+> Agregá la condición necesaria para que, `si` el asteroide `está cerca y viene lento`, vaya a la estación a buscar el propulsor, lo envíe al Noroeste y `aumente la potencia` de los propulsores `hasta que pueda mover al asteroide`.

@@ -1,0 +1,1 @@
+Recordá que para agregar otra condición a la estructura podés hacer click derecho sobre el bloque o mantener presionado y seleccionar **Agregar 'si no, si'**.
