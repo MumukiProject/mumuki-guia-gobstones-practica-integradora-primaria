@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1552403410457.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/attires/config_1552403410457.json"></gs-attire>  
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/toolbox_1551388172910.xml"></gs-toolbox>
 
