@@ -9,4 +9,4 @@ Esos asteroides son básicamente rocas de gran tamaño que viajan por el espacio
 
 ¡Veamos qué podemos hacer para desviar a estos asteroides y evitar que nos choquen! :stuck_out_tongue_winking_eye:
 
-> Definí el procedimiento `Atacar asteroide` que `si` el asteroide `está lejos`, `vayamos` rápido `al borde` Noreste (`Norte` y `Este`) y `ponga un tractor gravitacional` para atraerlo y desviarlo. `Si no`, `iremos a la estación de cohetes` para `enviar el impactador al` Noroeste  (`Norte` y `Oeste`) y destruir el asteroide en mil pedazos. :collision:
+> Definí el procedimiento `Atacar asteroide` que `si` el asteroide `está lejos`, `vayamos` rápido `al borde` Noreste (`Norte` y `Este`) y `ponga un tractor gravitacional` para atraerlo y desviarlo. 

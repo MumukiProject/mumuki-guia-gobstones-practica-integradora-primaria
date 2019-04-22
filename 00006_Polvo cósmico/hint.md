@@ -1,1 +1,1 @@
-Recordá que para llegar rápidamente a un borde, tenés el comando `Ir al borde`. El impactador lo podés mover hacia la dirección que quieras. 
+Recordá que para llegar rápidamente a un borde, tenés el comando `Ir al borde`. 
