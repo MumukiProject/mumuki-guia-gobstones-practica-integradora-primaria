@@ -1,3 +1,3 @@
-¡Acabás de salvar al planeta de un gran impacto! :sunglasses: No todos los asteroides cercanos a la Tierra son un problema grave, pero algunos sí son potencialmente peligrosos. Por eso, es muy importante el trabajo de grandes proyectos que realizan observaciones constantes del cielo. :telescope:
+¡Acabás de salvar al planeta de un gran impacto! :sunglasses: Y todo gracias al _tractor gravitacional_, una nave espacial :rocket: muy pesada que atrae al asteroide y lo lleva para otro camino :arrow_upper_right:. No todos los asteroides cercanos a la Tierra son un problema grave, pero algunos sí son potencialmente peligrosos. Por eso, es muy importante el trabajo de grandes proyectos que realizan observaciones constantes del cielo. :telescope: 
 
 La mayoría de los asteroides se encuentran orbitando (es decir, girando :arrows_counterclockwise:) entre los planetas Marte y Júpiter, en una zona conocida como el **cinturón de asteroides**.
