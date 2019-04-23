@@ -3,7 +3,7 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-integradora-primaria/master/assets/toolbox_1551388172910.xml"></gs-toolbox>
 
 
-¡Ya salvamos al planeta de dos grandes asteroides! Pero ¡cuidado, viene otro! :flushed:
+¡Ya salvamos al planeta de dos grandes asteroides! Pero queda un método más por considerar. :flushed:
 
 Lo mejor será evitar romper el asteroide siempre que podamos. Por eso, si está cerca de nuestro planeta pero se mueve lentamente, enviaremos un cohete especial con propulsores :rocket::dash: para empujar al asteroide. :muscle:
 
