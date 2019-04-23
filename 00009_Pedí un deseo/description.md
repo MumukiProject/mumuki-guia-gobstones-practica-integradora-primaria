@@ -10,4 +10,4 @@ Ya tomamos todas las medidas posibles y pudimos actuar con rapidez. ¿Pero qué 
 
 ¡Veamos qué ocurre con este último asteroide!
 
-> Ejecutá el programa que definiste para ver lo que sucede.
+> Modificá el procedimiento `Atacar asteroide` para que `si no` se cumple ninguna de las condiciones anteriores, ya no se investigue nuevos métodos de defensa sino que rompa el asteroide. Para romperlo habrá que `ir a la estación` para `enviar al impactador` al Noroeste y así destruir al asteroide en mil pedazos. :collision:

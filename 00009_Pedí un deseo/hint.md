@@ -1,0 +1,1 @@
+Como ya no vamos a necesitar más `investigar nuevo método de defensa` ese bloque lo tenemos que sacar para reemplazar ese espacio con los que ahora necesitamos.
